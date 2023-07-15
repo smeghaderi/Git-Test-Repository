@@ -1,3 +1,4 @@
-#It just test 
+# It's-just-test 
 
-Hello world
+Hello world 
+It is my first Git repository
